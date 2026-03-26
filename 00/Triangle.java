@@ -13,7 +13,7 @@ public class Triangle {
     
     public static void main(String[] args) {
         System.out.println("helloworld");
-        //printTriangle();
+        printTriangle();
         int total = 0;
         total = sumN2N(1, 10);
         System.out.println("total: " + total);
