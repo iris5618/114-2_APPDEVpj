@@ -46,7 +46,6 @@ class Whale extends MarineLifeParent {
         this.length = length;
     }
 
-    @Override
     public String move() {
         return name + " 擺動尾鰭前進";
     }
